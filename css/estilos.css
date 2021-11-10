@@ -32,7 +32,7 @@ header .contenedor {
 header .logotipo {
 	font-family: 'Bebas Neue', cursive;
 	font-weight: normal;
-	color: var(--rojo);
+	color: var(--azul);
 	font-size: 40px;
 }
 
